@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg" alt="cover" />
 </div>
 
-<h1> Olá, eu sou Rodrigo!</h1>
+<h1> Hello there, I'm Rodrigo!</h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigoaqueiroz.rodrigoaqueiroz)
@@ -17,7 +17,7 @@
 
 - 💬 Talk to me about Python, Javascript, Stock Market, Games and Tennis 🎾 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills - Always learning... <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/rodrigoaqueiroz?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/rodrigoaqueiroz?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/rodrigoaqueiroz?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
