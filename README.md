@@ -5,8 +5,6 @@
 <h1> Hello there, I'm Rodrigo!</h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigoaqueiroz.rodrigoaqueiroz)
-
 </p>
 <div size='20px'> Hi! My name is Rodrigo Queiroz. Thank You for taking the time to view my GitHub Profile 🚀
 </div>
